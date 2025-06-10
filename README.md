@@ -3,7 +3,6 @@ This project predicts whether an underwater object is a Rock or a Mine  using so
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
 
@@ -27,18 +26,18 @@ The dataset has 60 features representing sonar signal strengths and a label:
 
 ## Results
 
-Accuracy on training data:  83%
-Accuracy on test data:  76%
+- Accuracy on training data:  83%
+- Accuracy on test data:  76%
 
 ## Credits
 
-UCI ML Repository for dataset
-Built using Google Collab initially
+- UCI ML Repository for dataset
+- Built using Google Collab initially
 
 ## Future Improvements
 
-Hyperparameter Tuning
-Use other classifiers like SVM, Random Forest
-Visualize Feature importance
+- Hyperparameter Tuning
+- Use other classifiers like SVM, Random Forest
+- Visualize Feature importance
 
 
